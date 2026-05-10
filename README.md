@@ -43,16 +43,6 @@ This indexes all MFT entries and recursively resolves their full paths. ⏱️ I
 
 ---
 
-## 🧉 Buy Me a Coffee
-
-If this tool saved you hours of scripting or made your investigation easier, or got you valuable credentials during a penetration test — feel free to buy me a coffee:
-
-👉 [https://buymeacoffee.com/jeroens](https://buymeacoffee.com/jeroens)
-
-Much appreciated! 🧠☕
-
----
-
 ## 🧪 Example Commands
 
 **Dump MFT to a custom database output file:**
